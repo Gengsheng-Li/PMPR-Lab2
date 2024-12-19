@@ -1,0 +1,15 @@
+{
+    "adaptive_lr_config": {
+        "hidden_size": 10,
+        "initial_lr": 0.1,
+        "epochs": 2000,
+        "patience": 3,
+        "lr_decay_factor": 0.9,
+        "min_lr": 1e-06
+    },
+    "general_config": {
+        "input_size": 3,
+        "output_size": 3,
+        "save_interval": 100
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "learning_rate_config": {
+        "learning_rates": [
+            0.001,
+            0.01,
+            0.1
+        ],
+        "hidden_size": 10,
+        "epochs": 2000
+    },
+    "general_config": {
+        "input_size": 3,
+        "output_size": 3,
+        "save_interval": 100
+    }
+}

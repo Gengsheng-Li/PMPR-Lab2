@@ -1,0 +1,16 @@
+{
+    "hidden_size_config": {
+        "hidden_sizes": [
+            5,
+            10,
+            20
+        ],
+        "epochs": 2000,
+        "learning_rate": 0.1
+    },
+    "general_config": {
+        "input_size": 3,
+        "output_size": 3,
+        "save_interval": 100
+    }
+}
