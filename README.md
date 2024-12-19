@@ -1,4 +1,4 @@
-# Neural Network Classification Project
+# Principles and Methods of Pattern Recognition - Lab 2 Report
 
 这个项目有两个主要目标：(1) 实现两种不同的三层前向神经网络反向传播算法（批量梯度下降和随机梯度下降）；(2) 分析隐含层节点数（hidden layer nodes）和学习率（learning rate）对神经网络性能的影响。通过系统的对比实验和详细的性能分析，本项目不仅展示了不同梯度下降策略在三维数据分类任务上的表现差异，还深入探讨了网络结构和训练参数对分类性能的影响。
 
