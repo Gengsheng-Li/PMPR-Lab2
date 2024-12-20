@@ -7,7 +7,7 @@
 
 2024E8014682056
 
-Department: Laboratory of Brain Atlas and Brain-inspired Intelligence, Institute of Automation, Chinese Academy of Sciences, Beijing, China
+Laboratory of Brain Atlas and Brain-inspired Intelligence, Institute of Automation, Chinese Academy of Sciences, Beijing, China
 
 December 19, 2024
 
